@@ -1,0 +1,20 @@
+{
+  "name": "c-button_sheets",
+  "version": "1.0.0",
+  "type": "buttonSheets",
+  "data": {},
+  "structure": [],
+  "createdBy": "inspiraller",
+  "trunk": "main",
+  "versions": "",
+  "category": "Form",
+  "label": "Button Sheets",
+  "properties": {
+    "icon": "mdi-button-pointer",
+    "variant": "outlined",
+    "disabled": false,
+    "density": "compact",
+    "color": "blue-lighten-2",
+    "class": ["ma-2", "pa-2"]
+  }
+}
