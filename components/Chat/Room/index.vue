@@ -201,7 +201,7 @@ const formatedLine = ({ author, content, timestamp }) => {
   const optionsDate = { year: "2-digit", month: "numeric", day: "numeric" };
   const optionsTime = { hour: "numeric", minute: "numeric" };
   if(!author){
-    author = "Macbook Pro";
+    author = "Soporte Creavi";
   }
   const formattedDate = date.toLocaleDateString("es-ES", optionsDate);
   const formattedTime = date.toLocaleTimeString("es-ES", optionsTime);
